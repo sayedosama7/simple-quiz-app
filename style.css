@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 300px;
+    margin: 50px auto;
+    border: 5px solid green;
+    width: 100%;
+    
+}
+.q1{
+    border: 5px solid green;
+    background-color: rgba(211, 211, 211, 0.555);
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    outline: #4CAF50 solid 7px;
+    
+}
+
+.h1{
+    margin: 50px;
+    color: green;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cc{
+    margin: 0px 400px ;
+}
+.btn-success{
+    margin-left: 500px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+}
